@@ -1,9 +1,9 @@
 {
-  "id": "/recruit-pt/",
+  "id": "/recruit-pt/?app=recruit-pt-v2",
   "name": "Recruit PT",
   "short_name": "Recruit PT",
   "description": "Six-week beginner military calisthenics programme with a guided interval timer and training log.",
-  "start_url": "./index.html",
+  "start_url": "./?app=recruit-pt-v2",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
